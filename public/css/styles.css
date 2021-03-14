@@ -1,0 +1,13 @@
+.titulo-principal{
+    text-align: center;
+    padding: 20px;
+    font-size: 3rem;
+}
+
+.logo{
+    text-align: center;
+}
+
+img{
+    border-radius: 15px;
+}

@@ -1,0 +1,29 @@
+body{
+    background-color: #333;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    min-height: 100vh;
+    font-family: sans-serif;
+    color: #888;
+}
+
+.titulo-404{ 
+    text-align: center;
+    color: #fff;
+}
+.tipo-de-error {
+    text-align: center;
+    font-size: 3rem;
+}
+.descripcion-error {
+    text-align: center;
+}
+
+.volver-inicio{
+    color:#888;
+    padding: 10px;
+    border: solid 1px #888;
+}
